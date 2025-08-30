@@ -1,4 +1,8 @@
 # EXP-2 – PROMPT ENGINEERING
+```
+Name: Barath S
+Reg No: 212222230018
+```
 
 ## Aim
 To conduct a comparative analysis of different types of prompting patterns and explain them with various test scenarios.  
