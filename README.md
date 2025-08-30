@@ -6,7 +6,7 @@ The experiment demonstrates how broad/unstructured prompts differ from basic/cle
 
 ---
 
-## Algorithm (Steps)
+## Algorithm
 
 1. Identify Prompting Patterns:  
    - Broad / Unstructured prompts  
@@ -32,11 +32,10 @@ The experiment demonstrates how broad/unstructured prompts differ from basic/cle
    - Highlight which prompting pattern yields better responses  
    - Note strengths/weaknesses of each style  
 
-![Prompt Engineering Patterns](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Wv9-4zF9Hz2YeCOvVKjEQA.png)
-
+![Prompt Engineering Patterns](https://github.com/barathsubramani/EXPERIMENT-2-PROMPT-ENGINEERING/blob/main/Gemini_Generated_Image_psdcqzpsdcqzpsdc.png)
 ---
 
-## Output (Comparative Study)
+## Output
 
 ### Scenario 1 – General Knowledge
 - **Broad Prompt:** "Tell me about space."  
