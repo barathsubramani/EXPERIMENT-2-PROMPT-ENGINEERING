@@ -1,15 +1,90 @@
-# EXP-2-PROMPT-ENGINEERING-
+# EXP-2 – PROMPT ENGINEERING
 
-## Aim: 
-Comparative Analysis of different types of Prompting patterns and explain with Various Test Scenarios
+## Aim
+To conduct a comparative analysis of different types of prompting patterns and explain them with various test scenarios.  
+The experiment demonstrates how broad/unstructured prompts differ from basic/clearer prompts in terms of response quality, accuracy, and depth.
 
-Experiment:
-Test and compare how different pattern models respond to various prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios. 
-Analyze the quality, accuracy, and depth of the generated responses.
+---
 
+## Algorithm (Steps)
+1. Identify Prompting Patterns:  
+   - Broad / Unstructured prompts  
+   - Refined / Clear prompts  
+   - Advanced prompting techniques (Chain-of-Thought, Few-shot, Role-based prompts)  
 
-## Algorithm:
+2. Design Test Scenarios:  
+   - General Knowledge (Fact-based Q&A)  
+   - Creative Task (Story/Poem generation)  
+   - Problem Solving (Math/Logic)  
+   - Instruction Following (Step-wise process)  
 
-## Output
+3. Test Responses:  
+   - Feed different prompts (broad vs refined) into the model  
+   - Record the generated responses  
+
+4. Compare Quality:  
+   - Accuracy  
+   - Depth of explanation  
+   - Relevance to the prompt  
+
+5. Analyze Findings:  
+   - Highlight which prompting pattern yields better responses  
+   - Note strengths/weaknesses of each style  
+
+---
+
+## Output (Comparative Study)
+
+### Scenario 1 – General Knowledge
+- **Broad Prompt:** "Tell me about space."  
+  - Response: Very generic, surface-level details about planets and stars.  
+- **Refined Prompt:** "Explain how black holes are formed in simple terms for a 10-year-old."  
+  - Response: Clear, structured explanation with analogy, suitable for a child.  
+
+**Observation:** Refined prompt gives more useful and context-aware responses.  
+
+![General Knowledge Prompting](https://miro.medium.com/v2/resize:fit:1200/format:webp/1*Lw5wVb-8gDXiKnJ1i2AQbA.png)
+
+---
+
+### Scenario 2 – Creative Task
+- **Broad Prompt:** "Write a story."  
+  - Response: Short, vague story with limited details.  
+- **Refined Prompt:** "Write a short story about a time-traveling scientist who fixes historical mistakes."  
+  - Response: Rich, imaginative narrative with detailed characters and plot.  
+
+**Observation:** Refined prompt produces more engaging and controlled creativity.  
+
+![Creative Prompting](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*L5UnzrVE5F32i-4kLlwMkg.png)
+
+---
+
+### Scenario 3 – Problem Solving
+- **Broad Prompt:** "Solve math."  
+  - Response: No clear direction, response may be random.  
+- **Refined Prompt:** "Solve: If a train travels at 60 km/h for 2.5 hours, how far does it go?"  
+  - Response: Correctly calculates distance = 150 km with explanation.  
+
+**Observation:** Precise prompts guide the model to produce accurate solutions.  
+
+![Problem Solving Prompting](https://www.promptingguide.ai/_next/image?url=%2Fimages%2Fchain-of-thought.png&w=640&q=75)
+
+---
+
+### Scenario 4 – Instruction Following
+- **Broad Prompt:** "Explain photosynthesis."  
+  - Response: General explanation.  
+- **Refined Prompt:** "Explain photosynthesis step by step, using bullet points, suitable for a biology exam."  
+  - Response: Detailed, structured points (light absorption → glucose production → oxygen release).  
+
+**Observation:** Structured prompts result in exam-ready, well-formatted answers.  
+
+![Instruction Following Prompting](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Wv9-4zF9Hz2YeCOvVKjEQA.png)
+
+---
 
 ## Result
+- Broad/unstructured prompts generate vague and generic answers.  
+- Clear and refined prompts yield more accurate, structured, and context-aware responses.  
+- Advanced prompting techniques (role-based, few-shot, chain-of-thought) significantly improve reasoning and creativity.  
+- Conclusion: The effectiveness of LLMs depends strongly on prompt engineering, and refined prompting is essential for quality outputs.  
