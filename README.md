@@ -45,7 +45,7 @@ The experiment demonstrates how broad/unstructured prompts differ from basic/cle
 
 **Observation:** Refined prompt gives more useful and context-aware responses.  
 
-![General Knowledge Prompt](https://miro.medium.com/v2/resize:fit:1200/format:webp/1*Lw5wVb-8gDXiKnJ1i2AQbA.png)
+
 
 ---
 
@@ -57,7 +57,7 @@ The experiment demonstrates how broad/unstructured prompts differ from basic/cle
 
 **Observation:** Refined prompt produces more engaging and controlled creativity.  
 
-![Creative Prompt](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*L5UnzrVE5F32i-4kLlwMkg.png)
+
 
 ---
 
@@ -69,7 +69,7 @@ The experiment demonstrates how broad/unstructured prompts differ from basic/cle
 
 **Observation:** Precise prompts guide the model to produce accurate solutions.  
 
-![Problem Solving Prompt](https://www.promptingguide.ai/_next/image?url=%2Fimages%2Fchain-of-thought.png&w=640&q=75)
+
 
 ---
 
@@ -81,7 +81,7 @@ The experiment demonstrates how broad/unstructured prompts differ from basic/cle
 
 **Observation:** Structured prompts result in exam-ready, well-formatted answers.  
 
-![Instruction Following Prompt](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Wv9-4zF9Hz2YeCOvVKjEQA.png)
+
 
 ---
 
@@ -91,4 +91,3 @@ The experiment demonstrates how broad/unstructured prompts differ from basic/cle
 - Advanced prompting techniques (role-based, few-shot, chain-of-thought) significantly improve reasoning and creativity.  
 - **Conclusion:** The effectiveness of LLMs depends strongly on prompt engineering, and refined prompting is essential for quality outputs.  
 
-![Prompt Engineering Result](https://miro.medium.com/v2/resize:fit:1200/format:webp/1*UQfnPtJ5AZtSZcsdPjzp3w.png)
